@@ -1,0 +1,6 @@
+flags: {}
+packages:
+- '.'
+extra-deps: []
+force-install-local: true
+resolver: lts-2.22
