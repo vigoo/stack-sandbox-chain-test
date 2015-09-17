@@ -3,7 +3,6 @@ packages:
 - '.'
 extra-deps: []
 extra-package-dbs:
-    - ../lib1/.stack-work/install/x86_64-osx/lts-2.22/7.8.4/pkgdb/
-    - ../lib2/.stack-work/install/x86_64-osx/lts-2.22/7.8.4/pkgdb/
-force-install-local: true
-resolver: lts-2.22
+    - ../lib1/.stack-work/install/x86_64-osx/ghc-7.10.2/7.10.2/pkgdb/
+    - ../lib2/.stack-work/install/x86_64-osx/ghc-7.10.2/7.10.2/pkgdb/
+resolver: ghc-7.10.2

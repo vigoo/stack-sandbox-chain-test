@@ -15,4 +15,5 @@ popd
 pushd app
 ${STACK} clean
 ${STACK} build
+${STACK} exec app
 popd
